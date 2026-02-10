@@ -1,0 +1,148 @@
+
+body{
+    display: inline-block;
+    
+    background-image: url("images/backg.jpg");
+    background-size: cover;        
+    background-position: fixed;  
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    
+}
+
+h1{ font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin: 40px 40px;
+    color: black;
+    font-size: 50px;
+
+
+}
+header{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgba(255, 255, 255, 0.5);
+    text-align: center;
+    color:solid black;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 20px 0px;  
+      
+}
+.arabic-text {
+  direction: rtl;        
+  text-align: center;     
+  line-height: 1.6;    
+  font-size: 30px;       
+  font-family: "Amiri", "Scheherazade", "Arial", sans-serif;
+  
+}
+.head-text{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: x-large;
+}
+.glory-text{
+    width: fit-content;
+    margin: 40px 20px;
+    padding: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 4px solid black;
+    border-radius: 20px;
+    text-align: left;
+    
+}
+.headta-text{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+}
+.chart-container{
+    display: flex;
+}
+.dua-text{
+    text-align: center;
+    font-family:'Pacifico', cursive ;
+    font-size:80px;
+    
+}
+.day-container{
+    margin: 30px;
+    display: block;
+    padding: 10px;
+
+}
+button{
+    display: block;
+    padding: 4px 10px;
+    margin: 5px 0px;
+    background-color: #000080;
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+    font-size:xx-large ;
+
+}
+#c1, #c2, #c3, #c4, #c5, #c6, #c7, #c8, #c9, #c10, #c11, #c12, #c13, #c14, #c15, #c16, #c17, #c18, #c19, #c20, #c21, #c22, #c23, #c24, #c25, #c26, #c27, #c28, #c29, #c30{
+    display: none;
+    background-color: green;
+    float: right;
+    margin-left: 5px;
+}
+#cnt1, #cnt2, #cnt3, #cnt4, #cnt5, #cnt6, #cnt7, #cnt8, #cnt9, #cnt10, #cnt11, #cnt12, #cnt13, #cnt14, #cnt15, #cnt16, #cnt17, #cnt18, #cnt19, #cnt20, #cnt21, #cnt22, #cnt23, #cnt24, #cnt25, #cnt26, #cnt27, #cnt28, #cnt29, #cnt30{
+    display: none;
+    background-color: black;
+    float: right;
+}
+#num1, #num2, #num3, #num4, #num5, #num6, #num7, #num8, #num9, #num10, #num11, #num12, #num13, #num14, #num15, #num16, #num17, #num18, #num19, #num20, #num21, #num22, #num23, #num24, #num25, #num26, #num27, #num28, #num29, #num30{
+    display: none;
+    padding: 4px 10px;
+    margin: 5px 5px;
+    font-size: xx-large;
+    background-color: black;
+    color: red;
+    width: fit-content;
+    float: right;
+    border: 2px solid white;
+    border-radius: 5px;
+    
+}
+.container{
+    display: block;
+}
+.salawath-counter{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin: 10px auto;
+    text-align: center;
+
+
+}
+#sal-counter{
+    background-color: black;
+    color: white;
+    padding:10px 30px;
+    width: fit-content;
+    margin: 5px auto;
+    font-size: 50px;
+
+}
+#total-sal{
+    font-family:'Pacifico', cursive;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+#finalScore,#finalMsg,#finalMarks{
+    font-family:'Pacifico', cursive;
+    font-size: xx-large;
+    text-align: center;
+    
+}

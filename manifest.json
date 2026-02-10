@@ -1,0 +1,20 @@
+{
+  "name": "Ramazan Duas & Tracker",
+  "short_name": "Ramazan",
+  "description": "Daily Ramazan Duas with recitation counter and progress tracking",
+  "start_url": "ramazan.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/ramazan.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/ramazan.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
