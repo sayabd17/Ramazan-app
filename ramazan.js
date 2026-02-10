@@ -63,7 +63,7 @@ var count29 = parseInt(localStorage.getItem("day29Count")) || 0; var day29Comple
 var count30 = parseInt(localStorage.getItem("day30Count")) || 0; var day30Completed = localStorage.getItem("day30Completed") === "true";
 
 
-const ramazanStart = new Date(2026, 0, 2); 
+const ramazanStart = new Date(2026, 1, 19); 
 ramazanStart.setHours(0, 0, 0, 0);
 
 function unlockDays() {
@@ -1222,4 +1222,5 @@ function save(){
     if (savedMsg) {
         document.getElementById("total-sal").textContent = savedMsg;
     };
+
 
