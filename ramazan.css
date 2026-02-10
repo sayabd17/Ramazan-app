@@ -51,14 +51,14 @@ header{
 .glory-text{
     
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 30px;
     color:solid black;
     border: 3px solid black;
     border-radius: 10px;
     margin: 20px 2px;  
     padding:2px;
     text-align: left;
-    font-weight:bold;
+    
     
 }
 .headta-text{
@@ -152,6 +152,7 @@ button{
     text-align: center;
     
 }
+
 
 
 
