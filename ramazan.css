@@ -51,6 +51,7 @@ header{
 .glory-text{
     
     font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
     color:solid black;
     border: 3px solid black;
     border-radius: 10px;
@@ -150,6 +151,7 @@ button{
     text-align: center;
     
 }
+
 
 
 
