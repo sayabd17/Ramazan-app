@@ -67,7 +67,7 @@ h2{
 }
 .chart-container{
     display: flex;
-    width: 60%;
+    margin: 40px;
 }
 .dua-text{
     text-align: center;
@@ -149,5 +149,6 @@ button{
     text-align: center;
     
 }
+
 
 
