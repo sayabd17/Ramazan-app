@@ -11,6 +11,8 @@ body{
     margin: 0px;
     
 }
+li{
+    margin-bottom:10px;}
 .conti2{
     width:100%;}
 
@@ -151,6 +153,7 @@ button{
     text-align: center;
     
 }
+
 
 
 
