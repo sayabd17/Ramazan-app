@@ -49,7 +49,7 @@ header{
     font-size: x-large;
 }
 .glory-text{
-    width: fit-content;
+    width: 80%;
     margin: 40px 2px;
     padding: 2px;
     font-family: 'Times New Roman', Times, serif;
@@ -150,6 +150,7 @@ button{
     text-align: center;
     
 }
+
 
 
 
