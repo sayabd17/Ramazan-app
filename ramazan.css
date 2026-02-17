@@ -65,8 +65,7 @@ nav a:hover {
 }
 nav li{
     list-style-type: none ;
-    float: left;
-    margin: 0px 20px;
+    margin: 10px 0px;
  }
 nav ul{
     overflow: auto;}
@@ -182,6 +181,7 @@ button{
     text-align: center;
     
 }
+
 
 
 
