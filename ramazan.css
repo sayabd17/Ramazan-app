@@ -44,28 +44,28 @@ header{
   font-family: "Amiri", "Scheherazade", "Arial", sans-serif;
   
 }
-        nav {
-            background-color: #333;
-            text-align: center;
-            margin-left: 10px;
-            margin-right: 5px;
-        }
-        nav a {
-            color: white;
-            padding: 14px 20px;
-            display: inline-block;
-            text-decoration: none;
-        }
-        nav a:hover {
-            background-color: #575757;
-        }
-        nav li{
-            list-style-type: none ;
-            float: left;
-            margin: 0px 20px;
-        }
-        nav ul{
-            overflow: auto;}
+nav {
+    background-color: #333;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 5px;
+ }
+nav a {
+    color: white;
+    padding: 14px 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: #575757;
+}
+nav li{
+    list-style-type: none ;
+    float: left;
+    margin: 0px 20px;
+ }
+nav ul{
+    overflow: auto;}
 .head-text{
     text-align: center;
     font-family:'Times New Roman', Times, serif;
@@ -178,6 +178,7 @@ button{
     text-align: center;
     
 }
+
 
 
 
