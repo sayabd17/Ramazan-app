@@ -45,16 +45,20 @@ header{
   
 }
 nav {
-    background-color: #333;
+    
     text-align: center;
     margin-left: 10px;
     margin-right: 5px;
+    
  }
 nav a {
     color: white;
     padding: 14px 20px;
-    display: inline-block;
+    display: block;
     text-decoration: none;
+    background-color: #333;
+    border: 2px solid white;
+    
 }
 nav a:hover {
     background-color: #575757;
@@ -178,6 +182,7 @@ button{
     text-align: center;
     
 }
+
 
 
 
