@@ -47,13 +47,12 @@ header{
 nav {
     
     text-align: center;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin:auto;
     
  }
 nav a {
     color: white;
-    padding: 7px;
+    padding: 14px 20px;
     display: block;
     text-decoration: none;
     background-color: #333;
@@ -65,7 +64,7 @@ nav a:hover {
 }
 nav li{
     list-style-type: none ;
-    margin: 7px 0px;
+    margin: 10px 0px;
  }
 nav ul{
     overflow: auto;}
@@ -181,6 +180,7 @@ button{
     text-align: center;
     
 }
+
 
 
 
