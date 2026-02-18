@@ -764,6 +764,12 @@ function cnt3(){
         add.textContent=count24;
         localStorage.setItem("day24Count", count24);
     }
+    function cnt25(){
+        let add=document.getElementById("num25");
+        count25 +=1;
+        add.textContent=count25;
+        localStorage.setItem("day25Count", count25);
+    }
     function cnt26(){
         let add=document.getElementById("num26");
         count26 +=1;
@@ -1222,6 +1228,7 @@ function save(){
     if (savedMsg) {
         document.getElementById("total-sal").textContent = savedMsg;
     };
+
 
 
 
