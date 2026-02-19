@@ -31,8 +31,7 @@ let d30el=document.getElementById("d30");
 
 
 
-var count1 = parseInt(localStorage.getItem("day1Count")) || 0; var day1Completed = localStorage.getItem("day1Completed") === "true"{ document.getElementById("d1").style.backgroundColor="green";
-    }
+var count1 = parseInt(localStorage.getItem("day1Count")) || 0; var day1Completed = localStorage.getItem("day1Completed") === "true";
 var count2 = parseInt(localStorage.getItem("day2Count")) || 0; var day2Completed = localStorage.getItem("day2Completed") === "true";
 var count3 = parseInt(localStorage.getItem("day3Count")) || 0; var day3Completed = localStorage.getItem("day3Completed") === "true";
 var count4 = parseInt(localStorage.getItem("day4Count")) || 0; var day4Completed = localStorage.getItem("day4Completed") === "true";
