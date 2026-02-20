@@ -146,7 +146,7 @@ function d3(){
     if (document.getElementById("d3").disabled) return;
 
     let x="اللّهُمَّ اشْمَلْنِي بِرَحْمَتِكَ فِي هَذَا الشَّهْرِ، وَقَرِّبْنِي إِلَيْكَ قُرْبًا يَرْضِيكَ عَنِّي.";
-    let y="O Allah, cover me with Your mercy in this month and draw me closer to You in a way that pleases You.";
+    let y="O Allah, cover me with Your mercy in this month and take me closer to You in a way that pleases You.";
     let z="அல்லாஹ்வே! இந்தப் புனித மாதத்தில் உமது கருணையால் என்னை மூடிக்கொள். உமக்கு பிரியமான முறையில் என்னை உமக்கு நெருக்கமாக்குவாயாக.";
     let all=x+"\n\n"+y+"\n\n"+z;
     d3el.innerText = all;
